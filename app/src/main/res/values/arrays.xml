@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Fahrenheit to Celsius</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Inches to Meters</item>
+        <item>Meters to Inches</item>
+        <item>Pounds to Kilograms</item>
+        <item>Kilograms to Pounds</item>
+    </string-array>
+</resources>
